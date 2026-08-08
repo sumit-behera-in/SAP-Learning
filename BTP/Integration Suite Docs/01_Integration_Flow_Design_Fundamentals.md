@@ -1,5 +1,3 @@
-Absolutely. For **SAP CPI / SAP Integration Suite – Integration Flow Design Fundamentals**, I’d make the theory section broad enough to serve as a proper foundation for your roadmap and later interview preparation.
-
 # SAP CPI — Integration Flow Design Fundamentals
 
 ## 1. What is Integration?
